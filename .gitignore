@@ -1,18 +1,16 @@
-# --- ros ---
-# ros build files
-build/
-devel/
-install/
+# --- ROS ---
+ros/build/
+ros/devel/
+ros/install/
 *.log
 
 # --- Unity ---
-# Unity auto-generated folders
-unity/[Ll]ibrary/
-unity/[Tt]emp/
-unity/[Oo]bj/
-unity/[Bb]uild/
-unity/[Bb]uilds/
-unity/[Ll]ogs/
+unity/Library/
+unity/Temp/
+unity/Obj/
+unity/Build/
+unity/Builds/
+unity/Logs/
 unity/UserSettings/
 unity/MemoryCaptures/
 
@@ -26,15 +24,9 @@ unity/MemoryCaptures/
 .DS_Store
 Thumbs.db
 
-# Unity project files that don't need to be tracked
+# Unity project files not needed
 unity/*.csproj
 unity/*.sln
 unity/*.user
 unity/*.userprefs
 unity/*.pidb
-unity/*.booproj
-unity/*.svd
-unity/*.pdb
-unity/*.mdb
-unity/*.opendb
-unity/*.VC.db
