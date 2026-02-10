@@ -1,0 +1,40 @@
+# --- ros ---
+# ros build files
+build/
+devel/
+install/
+*.log
+
+# --- Unity ---
+# Unity auto-generated folders
+unity/[Ll]ibrary/
+unity/[Tt]emp/
+unity/[Oo]bj/
+unity/[Bb]uild/
+unity/[Bb]uilds/
+unity/[Ll]ogs/
+unity/UserSettings/
+unity/MemoryCaptures/
+
+# IDE/editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Unity project files that don't need to be tracked
+unity/*.csproj
+unity/*.sln
+unity/*.user
+unity/*.userprefs
+unity/*.pidb
+unity/*.booproj
+unity/*.svd
+unity/*.pdb
+unity/*.mdb
+unity/*.opendb
+unity/*.VC.db
