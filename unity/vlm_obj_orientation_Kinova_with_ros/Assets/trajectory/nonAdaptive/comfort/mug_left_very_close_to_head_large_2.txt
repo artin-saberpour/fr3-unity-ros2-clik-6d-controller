@@ -1,0 +1,1 @@
+Shoulder=0;Arm=17.1277447;ForeArm=17.8443604;Hand=0;Average=8.74302673

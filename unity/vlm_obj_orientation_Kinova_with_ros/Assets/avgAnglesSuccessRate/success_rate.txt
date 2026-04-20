@@ -1,0 +1,16 @@
+﻿# Success rate over last 10 frames per file
+# Distance<th=6, Angle<th=46
+
+banana_left_distanced from_1.txt	Unsuccessful
+bleach_left_distanced from_4.txt	Unsuccessful
+bowl_left_distanced from_5.txt	Unsuccessful
+fork_left_distanced from_2.txt	Unsuccessful
+mug_left_distanced from_5.txt	Success
+mustard_left_very close to_1.txt	Unsuccessful
+mustard_left_very close to_4.txt	Unsuccessful
+skillet_left_distanced from_1.txt	Unsuccessful
+skillet_left_distanced from_2.txt	Unsuccessful
+spatula_left_distanced from_2.txt	Unsuccessful
+spatula_left_distanced from_3.txt	Unsuccessful
+
+# Summary: Success=1, Unsuccessful=10, Total=11

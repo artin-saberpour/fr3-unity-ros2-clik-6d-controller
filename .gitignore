@@ -30,3 +30,16 @@ unity/*.sln
 unity/*.user
 unity/*.userprefs
 unity/*.pidb
+
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Unity Package cache (important for your error)
+**/Library/PackageCache/

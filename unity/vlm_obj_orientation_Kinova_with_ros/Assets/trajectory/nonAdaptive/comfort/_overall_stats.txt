@@ -1,0 +1,4 @@
+Label=nonAdaptive
+Count=78
+MeanAverage=22.9764977
+SDAverage=9.4703474

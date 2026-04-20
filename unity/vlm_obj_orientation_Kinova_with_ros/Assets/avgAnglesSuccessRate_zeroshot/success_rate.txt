@@ -1,0 +1,35 @@
+﻿# Success rate over last 10 frames per file
+# Distance<th=6, Angle<th=46
+
+apple_left_very close to_6.txt	Unsuccessful
+bowl_left_distanced from_1.txt	Unsuccessful
+fork_left_distanced from_1.txt	Unsuccessful
+fork_left_distanced from_2.txt	Unsuccessful
+mug_left_distanced from_1.txt	Unsuccessful
+mug_left_distanced from_2.txt	Unsuccessful
+mug_left_distanced from_3.txt	Unsuccessful
+mug_left_very close to_1.txt	Unsuccessful
+mug_left_very close to_2.txt	Unsuccessful
+mustard_left_distanced from_1.txt	Unsuccessful
+mustard_left_distanced from_2.txt	Unsuccessful
+mustard_left_distanced from_3.txt	Unsuccessful
+plate_left_distanced from_1.txt	Unsuccessful
+plate_left_distanced from_2.txt	Unsuccessful
+powerdrill_left_distanced from_1.txt	Unsuccessful
+powerdrill_left_distanced from_2.txt	Unsuccessful
+powerdrill_left_distanced from_3.txt	Unsuccessful
+powerdrill_left_very close to_2.txt	Unsuccessful
+skillet_left_distanced from_1.txt	Unsuccessful
+skillet_left_distanced from_2.txt	Unsuccessful
+skillet_left_distanced from_3.txt	Unsuccessful
+spoon_left_distanced from_2.txt	Unsuccessful
+spoon_left_distanced from_3.txt	Unsuccessful
+spoon_left_very close to_1.txt	Unsuccessful
+sugar_left_distanced from_1.txt	Unsuccessful
+sugar_left_distanced from_2.txt	Unsuccessful
+sugar_left_distanced from_3.txt	Unsuccessful
+sugar_right_very close to_3.txt	Unsuccessful
+wood_left_distanced from_1.txt	Unsuccessful
+wood_left_distanced from_3.txt	Unsuccessful
+
+# Summary: Success=0, Unsuccessful=30, Total=30

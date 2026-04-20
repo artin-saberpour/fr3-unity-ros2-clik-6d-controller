@@ -1,0 +1,4 @@
+Label=ours
+Count=78
+MeanAverage=21.4974232
+SDAverage=10.2489796

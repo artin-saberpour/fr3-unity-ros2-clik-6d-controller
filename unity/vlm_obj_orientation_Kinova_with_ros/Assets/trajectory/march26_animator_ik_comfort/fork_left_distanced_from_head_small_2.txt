@@ -1,0 +1,1 @@
+Arm=42.0454597;ForeArm=113.770638;Hand=2.19507122;Sum=158.011169;Average=52.6703911;Reachability=1
