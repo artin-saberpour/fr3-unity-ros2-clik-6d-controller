@@ -1,14 +1,11 @@
-## 🎥 Demo
-
-<video src="https://github.com/user-attachments/assets/af639375-576d-4b2c-9606-df6b9f720daa" controls width="700"></video>
-
-
-
-
-
 # Kinova 6-DoF Workspace Simulator with Closed-Loop Inverse Kinematics (CLIK)
 
 A ROS 2-integrated simulation environment for controlling a Kinova 6-DoF robotic manipulator in Cartesian workspace space, with Unity providing real-time visualization and interaction.
+
+---
+## 🎥 Demo
+
+<video src="https://github.com/user-attachments/assets/af639375-576d-4b2c-9606-df6b9f720daa" controls width="700"></video>
 
 ---
 
@@ -45,11 +42,11 @@ Typical formulation:
 
 For:
 
-**q̇** = joint velocity vector  
-**J⁺(q)** = Jacobian pseudoinverse  
-**ẋ_d** = desired Cartesian velocity  
-**e** = pose error in task space  
-**K** = feedback gain matrix  
+**q̇** : joint velocity vector  
+**J⁺(q)** : Jacobian pseudoinverse  
+**ẋ_d** : desired Cartesian velocity  
+**e** : pose error in task space  
+**K** : feedback gain matrix  
 
 This enables stable and smooth convergence to commanded workspace targets.
 
