@@ -3,4 +3,4 @@ Kinova unity simulator with 6d closed loop IK controller
 
 ## 🎥 Demo
 
-[Watch the video](./rendered_samples/rendered_sample.mp4)
+[![Watch the video](./rendered_samples/screenshot.png)](./rendered_samples/rendered_sample.mp4)
