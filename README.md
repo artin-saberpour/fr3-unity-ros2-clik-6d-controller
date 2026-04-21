@@ -43,13 +43,13 @@ Typical formulation:
 
 **q̇ = J⁺(q) (ẋ_d + K e)**
 
-Where:
+For:
 
-- **q̇** = joint velocity vector  
-- **J⁺(q)** = Jacobian pseudoinverse  
-- **ẋ_d** = desired Cartesian velocity  
-- **e** = pose error in task space  
-- **K** = feedback gain matrix  
+**q̇** = joint velocity vector  
+**J⁺(q)** = Jacobian pseudoinverse  
+**ẋ_d** = desired Cartesian velocity  
+**e** = pose error in task space  
+**K** = feedback gain matrix  
 
 This enables stable and smooth convergence to commanded workspace targets.
 
