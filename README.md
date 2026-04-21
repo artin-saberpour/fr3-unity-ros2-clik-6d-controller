@@ -21,14 +21,14 @@ ROS 2 is used as the communication and control middleware, while Unity renders t
 
 ## Core Features
 
-- Cartesian 6-DoF end-effector control  
-- Joint velocity-based actuation  
-- Closed-loop inverse kinematics (CLIK)  
-- Real-time pose tracking  
-- ROS 2 communication interface  
-- Unity-based visualization  
-- Modular simulation architecture  
-- Suitable for controller development and testing  
+**Cartesian 6-DoF end-effector control**
+**Joint velocity-based actuation**
+**Closed-loop inverse kinematics (CLIK)**
+**Real-time pose tracking**
+**ROS 2 communication interface**
+**Unity-based visualization**
+**Modular simulation architecture**
+**Suitable for controller development and testing**
 
 ---
 
@@ -48,7 +48,6 @@ For:
 **e** : pose error in task space  
 **K** : feedback gain matrix  
 
-This enables stable and smooth convergence to commanded workspace targets.
 
 ---
 
